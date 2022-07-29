@@ -1,0 +1,131 @@
+
+
+
+
+
+#navbarMonstera {
+    position: relative;
+    display: flex;
+    top: 35px;
+
+}
+
+#navFirst {
+    position: absolute;
+    left: 40px;
+}
+
+#navMid {
+    position: relative;
+    display: flex;
+    left: 450px;
+    float: left;
+    margin-right: 40px;
+    font-size: 1.5em;
+}
+#navbarMonstera  div + div {
+    margin-left: 40px;
+  }
+
+#navEnd {
+    position: relative;
+    display: flex;
+    right: -630px;
+    top: 25px;
+
+}
+
+#imgMain {
+    position: absolute;
+    top: 120px;
+    right: 0px;
+    width: 470px;
+}
+
+#midWholePart11 {
+    position: absolute;
+    top: 200px;
+    width: 450px;
+    left: 10px;
+}
+
+#monstera {
+    font-weight: bold;
+    font-size: 6em;
+}
+
+div ul {
+    position: relative;
+    font-weight: bold;
+    line-height: 20px;
+    top: 10px;
+    
+}
+
+#midWholePart13 {
+    position: relative;
+    display: flex;
+    top: 500px;
+}
+
+.midWholePart13Parts {
+    position: relative;
+    display: flex;
+    width: 19%;
+    left: 30px;
+}
+
+.midWholePart13Parts > div > h4 {
+    position: absolute;
+    top: -10px;
+    left: 100px;
+}
+.midWholePart13Parts > div > p {
+    position: absolute;
+    top: 15px;
+    left: 100px;
+}
+
+#light {
+    position: relative;
+    left: 50px;
+    top: 5px;
+    
+}
+
+#care {
+    position: relative;
+    left: 40px;
+    top: 5px;
+}
+
+#midWholePart12 {
+    position: absolute;
+    display: flex;
+    top: 480px;
+    left: 50px;
+}
+
+#midWholePart121 {
+    position: relative;
+    top: 10px;
+    background-color: #277c3d;
+    width: 220px;
+    height: 7vh;
+    text-align: center;
+    border-radius: 25px;
+}
+#midWholePart121 div  h1 {
+    position: absolute;
+    top: -12px;
+    color: #ffffff;
+    left: 13px;
+
+}
+
+#midWholePart122 {
+    position: relative;
+    display: flex;
+    top: 15px;
+    left: 190px;
+}
