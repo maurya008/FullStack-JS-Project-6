@@ -14,4 +14,5 @@
 # Time taken to finish this project
 
 - 3 hour taken to complete it.
-![Thumbnail](./thumbnail.png)
+
+![Thumbnail](./6.png)
